@@ -1,3 +1,10 @@
+# Restaurant Menu Viewer
+A template that allows restaurants and businesses in the food industry to easily get an online menu up and running.
+
+This project is maintained and contributed to by members of the the Self-Taught Software Developers meetup group. You can learn more about us and join [here](https://www.meetup.com/Philadelphia-Self-Taught-Developers-Meetup-Group/).
+
+## Nextjs and Vercel info
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
