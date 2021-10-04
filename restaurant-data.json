@@ -1,0 +1,18 @@
+{
+  "name": "Michael's Tacos",
+  "companyEndpoint": "michaels-tacos",
+  "logoID": "michaels-tacos-logo",
+  "products": [
+    {
+      "displayName": "Appetizers",
+      "name": "appetizers",
+      "items": [{
+        "displayName": "Wings",
+        "name": "wings",
+        "imageID": "michaels-tacos-appetizers-wings",
+        "description": "5 delicious bone-in wings. Served wth ranch, and celery.",
+        "price": "$7.99"
+      }]
+    }
+  ]
+}
