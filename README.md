@@ -11,7 +11,7 @@ Learn more about contributing, pull requests and more [here](https://github.com/
 
 First, fork this repo and clone it to your machine
 
-Next, run ```bash npm install``` to install all dependencies
+Next, cd into the created folder and run ```npm install``` to install all dependencies
 
 Lastly, run the development server on your machine:
 
