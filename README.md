@@ -3,6 +3,10 @@ A Next.js template that allows restaurants and businesses in the food industry t
 
 This project is maintained and contributed to by members of the the Self-Taught Software Developers meetup group. You can learn more about us and join [here](https://www.meetup.com/Philadelphia-Self-Taught-Developers-Meetup-Group/).
 
+## Project info and Description
+
+Please reference this issue from our Hacktoberfest idea repo for the project description: https://github.com/Self-Taught-Software-Developers/hacktoberfest-idea/issues/1
+
 ## Contributing
 
 Learn more about contributing, pull requests and more [here](https://github.com/Self-Taught-Software-Developers/restaurant-menu-viewer/blob/main/CONTRIBUTING.md).
