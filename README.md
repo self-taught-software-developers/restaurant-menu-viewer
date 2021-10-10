@@ -16,7 +16,7 @@ Learn about contributing, pull requests, and more in our [CONTRIBUTING.md](CONTR
 
 First, fork this repo and clone it to your machine.
 
-Make sure you already have Node.js installed. If not, [follow these steps](#) to do so before moving forward.
+Make sure you already have Node.js installed. Check this by running node -v in your terminal. If you receive back a "command not found" message, then [follow these steps](#) before moving forward.
 
 Next, `cd` into your local `restaurant-menu-viewer` folder and run `npm install` to install all dependencies.
 
