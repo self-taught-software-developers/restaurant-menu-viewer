@@ -1,37 +1,44 @@
 # Restaurant Menu Viewer
-A Next.js template that allows restaurants and businesses in the food industry to easily get an online menu up and running. Learn more about Next.js [here](#nextjs).
 
-This project is maintained and contributed to by members of the the Self-Taught Software Developers meetup group. You can learn more about us and join [here](https://www.meetup.com/Philadelphia-Self-Taught-Developers-Meetup-Group/).
+A Next.js template that allows restaurants and businesses in the food industry to easily get an online menu up and running.
 
-## Project info and Description
+This project is maintained and contributed to by members of the the Self-Taught Software Developers meetup group. You can learn more about us [at our meetup group page](https://www.meetup.com/Philadelphia-Self-Taught-Developers-Meetup-Group/).
 
-Please reference this issue from our Hacktoberfest idea repo for the project description: https://github.com/Self-Taught-Software-Developers/hacktoberfest-idea/issues/1
+## Project Info and Description
+
+See the project [Wiki page](https://github.com/Self-Taught-Software-Developers/restaurant-menu-viewer/wiki/Project-Summary) for further info.
 
 ## Contributing
 
-Learn more about contributing, pull requests and more [here](https://github.com/Self-Taught-Software-Developers/restaurant-menu-viewer/blob/main/CONTRIBUTING.md).
+Learn about contributing, pull requests, and more in our [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
 ## Getting Started
 
-First, fork this repo and clone it to your machine
+First, fork this repo and clone it to your machine.
 
-Next, cd into the created folder and run ```npm install``` to install all dependencies
+Make sure you already have Node.js installed. Check this by running node -v in your terminal. If you receive back a "command not found" message, then [follow these steps](#) before moving forward.
 
-Lastly, run the development server on your machine:
+Next, `cd` into your local `restaurant-menu-viewer` folder and run `npm install` to install all dependencies.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+Type `npm run dev` in the terminal to start the development server.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Now, you should be able to navigate to [http://localhost:3000](http://localhost:3000) and see a web page render. Congrats — you did it!
 
-## Nextjs
+Press `Ctrl + C` to stop the development server.
+
+## More Commands
+
+The following scripts refer to the different stages of developing an application with Next.js:
+
+- `npm run dev` - Runs `next dev` which starts Next.js in development mode
+- `npm run build` - Runs `next build` which builds the application for production usage
+- `npm run start` - Runs `next start` which starts a Next.js production server
+- `npm run lint` - Runs `next lint` which sets up Next.js' built-in ESLint configuration
+
+## Next.js
 
 To learn more about Next.js, take a look at the following resources:
 
 - [Next.js API Routes docs](https://nextjs.org/docs/api-routes/introduction)
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial
