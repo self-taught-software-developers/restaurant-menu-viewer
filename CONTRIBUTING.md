@@ -7,7 +7,7 @@ If you don't have any questions, the issue is clear, and no one has commented sa
 Development workflow:
 
 * We are working off the ```development``` branch for this project, so be sure to create new branches from it when adding features, fixing bugs, etc.
-  * The development branch is set up to autodeploy staging builds of the app. When a PR for the development branch has been merged, you can find a preview for the build [here](https://github.com/Self-Taught-Software-Developers/restaurant-menu-viewer/deployments/activity_log?environment=Preview)
+  * The development branch is set up to autodeploy staging builds of the app. When a PR for the development branch has been opened or merged, you can find a preview for the build [here](https://github.com/Self-Taught-Software-Developers/restaurant-menu-viewer/deployments/activity_log?environment=Preview)
 * Once a PR is merged into the ```development``` branch and everything checks out in the preview, the ```development``` branch will be merged with the ```main``` branch
   * The ```main``` branch is linked to the autodeploy production builds of the app
   * Previews for each production build can be found [here](https://github.com/Self-Taught-Software-Developers/restaurant-menu-viewer/deployments/activity_log?environment=Production)
@@ -23,7 +23,7 @@ Here are the basic steps to submit a pull request:
 
 1. Run linters and fix any linting errors they brings up.
 
-1. Push to your fork and submit a pull request to the ```development``` branch. Include the issue number (ex. `Resolves #1`) in the PR description.
+1. Push to your fork and submit a pull request to the ```development``` branch. Include the issue number (ex. `Resolves #1`) in the PR description. When a PR is opened, a preview of the proposed changes can be found [here](https://github.com/Self-Taught-Software-Developers/restaurant-menu-viewer/deployments/activity_log?environment=Preview).
 
 1. For any changes, please create a feature branch and open a PR for it to the ```development``` branch when you feel it's ready to merge. Even if there's no real disagreement about a PR, at least one of this project's maintainers needs to look over a PR before merging. The purpose of this review requirement is to ensure shared knowledge of the app and its changes and to take advantage of the benefits of working together changes without any single person being a bottleneck to making progress. We will look over the PR asap and let you know of any improvements or changes that can be made!
 
