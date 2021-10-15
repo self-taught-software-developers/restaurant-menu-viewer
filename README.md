@@ -1,6 +1,6 @@
 # Restaurant Menu Viewer
 
-A Next.js template that allows restaurants and businesses in the food industry to easily get an online menu up and running.
+A Next.js starter template that allows restaurants and businesses in the food industry to easily get an online menu up and running.
 
 This project is maintained and contributed to by members of the the Self-Taught Software Developers meetup group. You can learn more about us [at our meetup group page](https://www.meetup.com/Philadelphia-Self-Taught-Developers-Meetup-Group/).
 
